@@ -11,3 +11,4 @@ For reference, below is a list of figures and the scripts that were used to gene
 - Figure 4.2: Run Gdiff_threshold.py
 - Figure 4.3: Run Gdiff_threshold.py
 - Figure 4.4: Run DPvsDCedgepayoff.py
+- Figure 5.1: Run altruistic_fvpairwisegroup.py with "switch_prob == Fermi"
