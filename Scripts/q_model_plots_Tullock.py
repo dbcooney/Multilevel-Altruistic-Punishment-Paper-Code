@@ -1,5 +1,5 @@
 """
-Script used to generate Figure 5.3, which compares the average payoff and average fraction
+Script used to generate Figure 5.6, which compares the average payoff and average fraction
 of altruistic punishers achieved after 9,600 time-steps for the case of multilevel
 competition following the group-level Tullock contest function and fixed cost of punishment
 (q > 0). This figure makes use of simulation outputs generated running the script 
