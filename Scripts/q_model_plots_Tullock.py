@@ -26,21 +26,13 @@ plt.figure(1)
 script_folder = os.getcwd()
 altruistic_folder = os.path.dirname(script_folder)
 
-lamb = 5.
 
-if lamb == 2.0:
-	file1 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p5modellamb5a0p5.txt"
-	file2 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p5modellamb5a0p5.txt"
-	file3 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p5modellamb5a0p5.txt"
-	file4 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p5modellamb5a0p5.txt"
-	file5 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p5modellamb5a0p5.txt"
-elif lamb == 5.:
-	file1 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p5modellamb5a0p5.txt"
-	file2 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p6modellamb55a0p5.txt"
-	file3 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p7modellamb55a0p5.txt"
-	file4 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p8modellamb55a0p5.txt"
-	file5 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p86modellamb55a0p5.txt"
-	file6 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p925modellamb55a0p5.txt"
+file1 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p5modellamb5a0p5.txt"
+file2 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p6modellamb55a0p5.txt"
+file3 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p7modellamb55a0p5.txt"
+file4 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p8modellamb55a0p5.txt"
+file5 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p86modellamb55a0p5.txt"
+file6 = altruistic_folder + "/Simulation_Outputs/GplotDPTullocknonlinearq0p925modellamb55a0p5.txt"
 
 
 
