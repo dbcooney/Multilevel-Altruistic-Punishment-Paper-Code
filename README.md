@@ -21,3 +21,6 @@ For reference, below is a list of figures and the scripts that were used to gene
 - Figure 6.2: Run loop_lambda_trimorphic_altruistic.py with "group_rate_type = fraction cooperating" to generate data, then run cooperation_steady_trimorphic_plots.py to produce the figure
 - Figure 6.3: Run trimorphic_altruistic.py with "quantity = steady"
 - Figure 6.4: Run loop_lambda_trimorphic_altruistic.py with "group_rate_type = average payoff" to generate data, then run average_payoff_steady_state_trimorphic.py to produce the figure
+- Figure B.1: Run loop_altruistic_LM_group.py to generate data, then run LM_average_payoff_trimorphic.py to produce the figure
+- Figure B.2(left): Run loop_altruistic_LM_group.py to generate data, then run LM_average_payoff_trimorphic.py to produce the left panels of the figure
+- Figure B.2(right): loop_lambda_trimorphic_altruistic.py with "group_rate_type = average payoff" to generate data, then run average_payoff_steady_state_trimorphic.py to produce the right panels of the figure
