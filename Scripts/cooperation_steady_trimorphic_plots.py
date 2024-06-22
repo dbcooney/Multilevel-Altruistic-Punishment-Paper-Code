@@ -25,7 +25,6 @@ rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
 #rc('font',**{'family':'serif','serif':['Palatino']})
 rc('text', usetex=True)
 
-#eta = 1.0
 
 plt.figure(1)
 
