@@ -13,7 +13,9 @@ For reference, below is a list of figures and the scripts that were used to gene
 - Figure 4.4: Run DPvsDCedgepayoff.py
 - Figure 5.1: Run altruistic_fvpairwisegroup.py with "switch_prob = Fermi"
 - Figure 5.2: Run altruistic_steady_fv_pairwise.py with "switch_prob = Fermi"
-- Figure 5.3: Run loop_altruistic_fvpairwise.py with "switch_prob = Fermi" to generate data, then run q_model_plots_nonlinear.py to produce the figure.
-- Figure 5.4: Run loop_altruistic_fvpairwise.py with "switch_prob = Fermi" to generate data, then run k_model_plots_nonlinear.py to produce the figure.
-- Figure 5.5: Run loop_altruistic_fvpairwise.py with "switch_prob = local" to generate data, then run q_model_local_nonlinear_plots.py to produce the figure.
-- Figure 5.6: Run loop_altruistic_fvpairwise.py with "switch_prob = Tullock" to generate data, then run q_model_plots_Tullock.py to produce the figure.
+- Figure 5.3: Run loop_altruistic_fvpairwise.py with "switch_prob = Fermi" to generate data, then run q_model_plots_nonlinear.py to produce the figure
+- Figure 5.4: Run loop_altruistic_fvpairwise.py with "switch_prob = Fermi" to generate data, then run k_model_plots_nonlinear.py to produce the figure
+- Figure 5.5: Run loop_altruistic_fvpairwise.py with "switch_prob = local" to generate data, then run q_model_local_nonlinear_plots.py to produce the figure
+- Figure 5.6: Run loop_altruistic_fvpairwise.py with "switch_prob = Tullock" to generate data, then run q_model_plots_Tullock.py to produce the figure
+- Figure 6.1: Run trimorphic_altruistic.py with "quantity = trajectory"
+- Figure 6.3: Run trimorphic_altruistic.py with "quantity = steady"
